@@ -17,7 +17,7 @@
     "url": "https://github.com/ingeshare/async-landing/issues"
   },
   "homepage": "https://github.com/ingeshare/async-landing#readme",
-  "dependencies": {
+  "devDependencies": {
     "gh-pages": "^4.0.0"
   }
 }
